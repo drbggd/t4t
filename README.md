@@ -5,4 +5,5 @@ program
 function
 how to use
 how to contribute
-payment
+payment methods
+
