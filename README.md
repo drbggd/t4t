@@ -5,5 +5,6 @@ program
 function
 how to use
 how to contribute
-payment methods
-
+cart
+payment method
+closing
